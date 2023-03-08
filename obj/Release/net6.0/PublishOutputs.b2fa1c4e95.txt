@@ -1,0 +1,6 @@
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Release\net6.0\publish\Snoot.exe
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Release\net6.0\publish\Snoot.dll
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Release\net6.0\publish\Snoot.deps.json
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Release\net6.0\publish\Snoot.runtimeconfig.json
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Release\net6.0\publish\Snoot.pdb
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Release\net6.0\publish\Interop.NATUPNPLib.dll
