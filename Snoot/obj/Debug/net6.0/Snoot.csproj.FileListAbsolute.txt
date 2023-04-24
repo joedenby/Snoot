@@ -1,0 +1,17 @@
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\Snoot.csproj.AssemblyReference.cache
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\Snoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\Snoot.AssemblyInfoInputs.cache
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\Snoot.AssemblyInfo.cs
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\Snoot.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Debug\net6.0\Snoot.exe
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Debug\net6.0\Snoot.deps.json
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Debug\net6.0\Snoot.runtimeconfig.json
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Debug\net6.0\Snoot.dll
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Debug\net6.0\Snoot.pdb
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\Snoot.dll
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\refint\Snoot.dll
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\Snoot.pdb
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\Snoot.genruntimeconfig.cache
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\ref\Snoot.dll
+C:\Users\Joseph\source\repos\Snoot\Snoot\bin\Debug\net6.0\Mono.Nat.dll
+C:\Users\Joseph\source\repos\Snoot\Snoot\obj\Debug\net6.0\Snoot.csproj.CopyComplete

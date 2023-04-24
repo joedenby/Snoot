@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RZMpJJkIUb+6tdL5ysyS4vBWwBiRLeyzo+ftCNf3dabP5cZoLLkdf1CwBl8usBpvS6vif6em/yl7W9Zu9izmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joseph\\source\\repos\\Snoot\\Snoot\\Snoot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joseph\\.nuget\\packages\\mono.nat\\3.0.4\\mono.nat.3.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
