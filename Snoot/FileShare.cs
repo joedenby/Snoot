@@ -130,8 +130,7 @@ namespace FileShare
             });
         }
 
-        private static void DeviceFound(object sender, DeviceEventArgs args)
-        {
+        private static void DeviceFound(object sender, DeviceEventArgs args) {
             INatDevice device = args.Device;
             device.CreatePortMap(new Mapping(Protocol.Tcp, 8888, 8888));
 
